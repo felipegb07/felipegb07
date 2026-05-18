@@ -48,68 +48,21 @@ Además de programar, disfruto aprender constantemente sobre nuevas tecnologías
 
 ## 🔹 Lenguajes
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css,bash" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,bash" />
 
 <br><br>
 
 ## 🔹 Herramientas y Tecnologías
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,notion,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,zed,obsidian" />
 
 <br><br>
 
 ## 🔹 Áreas de interés
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,arduino" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,arduino,SQL" />
 
 </div>
-
----
-
-# 🏗️ Algunos proyectos interesantes
-
-## 🚗 Simulador de Parqueadero
-
-Sistema desarrollado en C++ para simular un parqueadero multinivel con:
-
-- Gestión de ingresos y salidas
-- Procesamiento de archivos
-- Generación de reportes
-- Cálculo automático de cobros
-- Simulación de novedades aleatorias
-
-```cpp
-while (universidad_abierta) {
-    resolverProblemas();
-    programar();
-    aprender();
-    repetir();
-}
-```
-
----
-
-## 🌊 Modelo de PTAR Inteligente
-
-Proyecto enfocado en una planta de tratamiento de aguas residuales con:
-
-- Sistema hidráulico
-- Turbina helicoidal de Arquímedes
-- Modelado 3D
-- Optimización energética
-- Enfoque en sostenibilidad
-
----
-
-## 🌐 Redes y Simulación
-
-Configuración y simulación de:
-
-- Routers
-- Switches
-- Redes Linux
-- GNS3
-- Infraestructura virtual
 
 ---
 
@@ -144,6 +97,7 @@ Cuando no estoy programando probablemente estoy:
 - 🤖 Trabajar en inteligencia artificial
 - 🌎 Construir tecnología útil para las personas
 - 📈 Seguir creciendo técnica y personalmente
+- 🍃 Manejar altos volumenes de datos
 
 ---
 
@@ -151,7 +105,7 @@ Cuando no estoy programando probablemente estoy:
 
 # 📫 Contacto
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jf.gonzalezb@javeriana.edu.co)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jf.gonzalezb@javeriana.edu.co)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-gonz%C3%A1lez-ab7908390/?skipRedirect=true)
 
