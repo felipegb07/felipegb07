@@ -1,6 +1,6 @@
-# 👋 Hola, soy Felipe González
-
 <div align="center">
+
+# 👋 Hola, soy Felipe González
 
 ### 💻 Ingeniería de Sistemas | 🤖 AI Enthusiast | 🚀 Future Builder
 
@@ -42,21 +42,49 @@ Además de programar, disfruto aprender constantemente sobre nuevas tecnologías
 
 ---
 
-# 💻 Tecnologías y Lenguajes
-
 <div align="center">
+
+# 💻 Tecnologías y Lenguajes
 
 ## 🔹 Lenguajes
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,java,bash" />
 
+<br><br>
+
 ## 🔹 Herramientas y Tecnologías
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,obsidian,latex" />
 
+<br><br>
+
 ## 🔹 Áreas de interés
 
 <img src="https://skillicons.dev/icons?i=arduino,linux" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 📊 Lenguajes Más Utilizados
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipegb07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚡ Actividad en GitHub
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=felipegb07&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=felipegb07&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
@@ -84,21 +112,26 @@ Cuando no estoy programando probablemente estoy:
 
 ---
 
-# 📫 Contacto
-
 <div align="center">
 
+# 📫 Contacto
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jf.gonzalezb@javeriana.edu.co)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-gonz%C3%A1lez-ab7908390/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipegb07)
 
 </div>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=felipegb07&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+
+<br><br>
 
 ### 🚀 "Construyendo ideas, aprendiendo siempre y disfrutando el proceso"
 
 </div>
-
