@@ -1,10 +1,10 @@
-<div align="center">
-
 # 👋 Hola, soy Felipe González
+
+<div align="center">
 
 ### 💻 Ingeniería de Sistemas | 🤖 AI Enthusiast | 🚀 Future Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=System+Engineering+Student;AI+and+Cybersecurity+Enthusiast;Building+projects+that+solve+real+problems;Always+learning+something+new+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=System+Engineering+Student;AI+and+Cybersecurity;Building+projects+that+solve+real+problems;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -42,37 +42,21 @@ Además de programar, disfruto aprender constantemente sobre nuevas tecnologías
 
 ---
 
-<div align="center">
-
 # 💻 Tecnologías y Lenguajes
+
+<div align="center">
 
 ## 🔹 Lenguajes
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,bash" />
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,bash" />
 
 ## 🔹 Herramientas y Tecnologías
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,zed,obsidian" />
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,obsidian,latex" />
 
 ## 🔹 Áreas de interés
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,arduino,SQL" />
-
-</div>
-
----
-
-<div align="center">
-
-# 📈 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=arduino,linux" />
 
 </div>
 
@@ -97,34 +81,24 @@ Cuando no estoy programando probablemente estoy:
 - 🤖 Trabajar en inteligencia artificial
 - 🌎 Construir tecnología útil para las personas
 - 📈 Seguir creciendo técnica y personalmente
-- 🍃 Manejar altos volumenes de datos
 
 ---
 
-<div align="center">
-
 # 📫 Contacto
 
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jf.gonzalezb@javeriana.edu.co)
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-gonz%C3%A1lez-ab7908390/?skipRedirect=true)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jf.gonzalezb@javeriana.edu.co)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-gonz%C3%A1lez-ab7908390/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipegb07)
 
 </div>
 
 ---
 
-<div align="center">
-
-# ⚡ Quote
-
-```txt
-"El optimismo es un riesgo laboral de la programación: la retroalimentación es el tratamiento" – Kent Beck.
-```
-
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
 
 ### 🚀 "Construyendo ideas, aprendiendo siempre y disfrutando el proceso"
 
 </div>
+
