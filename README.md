@@ -48,7 +48,7 @@ Además de programar, disfruto aprender constantemente sobre nuevas tecnologías
 
 ## 🔹 Lenguajes
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,bash" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,bash" />
 
 <br><br>
 
