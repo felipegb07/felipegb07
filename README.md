@@ -80,7 +80,7 @@ Además de programar, disfruto aprender constantemente sobre nuevas tecnologías
 
 # ⚡ Actividad en GitHub
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=felipegb07&theme=tokyonight&hide_border=true" />
+<img src="https://demolab.com" alt="GitHub Streak Stats" />
 
 <br><br>
 
